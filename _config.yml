@@ -1,9 +1,9 @@
 baseurl:
-title: Datapoints Studio
+title: Data Points Studio
 subtitle: A portal for publishing great data analysis and visualization works
 author: PatternedScience Inc.
 simple_search: http://google.com/search
-description: Datapoints Studio - a portal for publishing great data analysis and visualization works
+description: Data Points Studio - a portal for publishing great data analysis and visualization works
 name: DatapointsStudio
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
