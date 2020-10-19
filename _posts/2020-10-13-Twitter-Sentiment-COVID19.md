@@ -13,4 +13,4 @@ Only the tweets with *exact geo-location* are considered, with the following col
 
 Original dataset collection (tweets) and sentiment scoring by [Rabindra Lamsal](https://rlamsal.com.np/), with the dataset published on [IEEE DataPort](https://ieee-dataport.org/open-access/coronavirus-covid-19-geo-tagged-tweets-dataset).
 
-Ester.C.Chen is the main developer of this notebook and a contributor to the design and maintenance of this website. Reach out to her via her [website](https://ester-cen-chen.com/) or [LinkedIn profile](https://www.linkedin.com/in/ester-c-chen/). The notebooks containing the full pipeline, leading to the above map, are in Ester's [GitHub repo](https://github.com/E-C-C-NOVEMBER-RAIN/geospatial_analytics).
+Ester Cen Chen is the main developer of this Jupyter Notebook and a contributor to its design and maintenance website. Reach out to her via her [personal website](https://ester-cen-chen.com/) or [LinkedIn Profile](https://www.linkedin.com/in/ester-c-chen/). The notebooks containing the full pipeline, leading to the above map, are in Ester's [GitHub repo](https://github.com/E-C-C-NOVEMBER-RAIN/geospatial_analytics).
